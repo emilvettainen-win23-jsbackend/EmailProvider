@@ -1,0 +1,6 @@
+{
+  "to" : "",
+  "subject" : "",
+  "htmlBody" : "",
+  "plainText" : ""
+}
